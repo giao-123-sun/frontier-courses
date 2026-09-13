@@ -1,0 +1,17 @@
+[Unit]
+Description=Frontier Courses
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/apps/frontier-courses/app
+EnvironmentFile=%h/apps/frontier-courses/app/.env
+ExecStart=%h/apps/frontier-courses/runtime/bin/node server/index.js
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=default.target

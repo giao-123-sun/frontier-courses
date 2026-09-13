@@ -1,0 +1,30 @@
+name: 推荐资源或纠错
+description: 提交有原始来源的前沿课程和开源学习项目
+title: "[资源] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 资源名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 原始链接
+      description: 请提供大学课程网站或项目作者的官方链接。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 学校、作者或维护团队
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 推荐理由、主题与开放程度
+      description: 请区分公开课程介绍、公开教材、完整录像和正式报名。
+    validations:
+      required: true

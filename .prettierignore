@@ -1,0 +1,5 @@
+dist
+node_modules
+private
+test-results
+package-lock.json

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "penn",
+    "name": "宾夕法尼亚大学课程目录",
+    "url": "https://upenn-public.courseleaf.com/courses/cis/",
+    "discover": true,
+    "region": "美国"
+  },
+  {
+    "id": "stanford",
+    "name": "斯坦福大学计算机课程",
+    "url": "https://www.cs.stanford.edu/academics-courses-schedule-autumn-quarter",
+    "discover": true,
+    "region": "美国"
+  },
+  {
+    "id": "sjtu",
+    "name": "上海交通大学人工智能学习中心",
+    "url": "https://aiedu.sjtu.edu.cn/",
+    "discover": true,
+    "region": "中国"
+  },
+  {
+    "id": "tsinghua",
+    "name": "清华大学大模型工程师学习班",
+    "url": "https://xm.sce.tsinghua.edu.cn/info/1054/2110.htm",
+    "discover": true,
+    "region": "中国"
+  }
+]
