@@ -62,7 +62,7 @@
       "featured": 9,
       "art": "loop",
       "code": "CS 146S",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
       "contentChangedAt": "2026-09-19T21:28:47.868Z"
     },
     {
@@ -94,7 +94,7 @@
       "featured": 8,
       "art": "model",
       "code": "CS 336",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z"
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z"
     },
     {
       "id": "sjtu-intro",
@@ -125,7 +125,7 @@
       "featured": 7,
       "art": "wave",
       "code": "学森挑战计划",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z"
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z"
     },
     {
       "id": "hello-agents",
@@ -158,9 +158,9 @@
       "featured": 6,
       "art": "agent",
       "code": "开源实践",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
-      "upstreamUpdatedAt": "2026-09-19T16:24:53Z",
-      "contentChangedAt": "2026-09-19T21:28:47.868Z"
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
+      "upstreamUpdatedAt": "2026-09-20T10:35:59Z",
+      "contentChangedAt": "2026-09-20T21:36:36.761Z"
     },
     {
       "id": "autogeo",
@@ -193,7 +193,7 @@
       "featured": 5,
       "art": "search",
       "code": "搜索优化",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
       "upstreamUpdatedAt": "2026-06-14T02:17:31Z"
     },
     {
@@ -226,7 +226,7 @@
       "featured": 4,
       "art": "nodes",
       "code": "智能体入门",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
       "upstreamUpdatedAt": "2026-09-09T23:35:03Z"
     },
     {
@@ -259,7 +259,7 @@
       "featured": 3,
       "art": "model",
       "code": "模型对齐",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
       "upstreamUpdatedAt": "2026-09-17T13:44:59Z",
       "contentChangedAt": "2026-09-17T22:13:40.915Z"
     },
@@ -293,7 +293,7 @@
       "featured": 2,
       "art": "search",
       "code": "原始研究",
-      "lastCheckedAt": "2026-09-19T21:28:47.868Z",
+      "lastCheckedAt": "2026-09-20T21:36:36.761Z",
       "upstreamUpdatedAt": "2025-10-30T02:55:23Z"
     }
   ],
@@ -302,14 +302,14 @@
       "id": "penn",
       "name": "宾夕法尼亚大学课程目录",
       "ok": false,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "message": "fetch failed"
     },
     {
       "id": "stanford",
       "name": "斯坦福大学计算机课程",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "79facd4d897eb421752a1268be2a2e45e6416bf164c6115a4826a7b8b846d392",
       "changed": false,
       "lastChangedAt": "2026-09-16T22:13:12.687Z"
@@ -318,37 +318,37 @@
       "id": "sjtu",
       "name": "上海交通大学人工智能学习中心",
       "ok": false,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "message": "来源需要浏览器验证"
     },
     {
       "id": "tsinghua",
       "name": "清华大学大模型工程师学习班",
       "ok": false,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "message": "fetch failed"
     },
     {
       "id": "penn-world-models",
       "name": "宾夕法尼亚大学 · 世界模型：让人工智能理解物理世界",
       "ok": false,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "message": "fetch failed"
     },
     {
       "id": "stanford-modern-dev",
       "name": "斯坦福大学 · 现代软件开发者：从智能编程到循环工程",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "83fd006c79ffb11a7eb9df0e45defaa8f50d49f08e1620b73a1a3765d9ebbb11",
-      "changed": true,
+      "changed": false,
       "lastChangedAt": "2026-09-19T21:28:47.868Z"
     },
     {
       "id": "stanford-cs336",
       "name": "斯坦福大学 · 从零构建大语言模型",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "0acf08b881f3d21e8e6d1e68151f1747c894eb6ea6600873a1fbe9cd091b9f65",
       "changed": false,
       "lastChangedAt": null
@@ -357,7 +357,7 @@
       "id": "sjtu-intro",
       "name": "上海交通大学 · 走近大模型：从原理到应用",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "47e59f50df80686bf3ee4ec11094cca96e3691b9661c1683f8c3fd738e516761",
       "changed": false,
       "lastChangedAt": null
@@ -366,16 +366,16 @@
       "id": "hello-agents",
       "name": "Datawhale 开源社区 · 从零开始构建智能体",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
-      "hash": "203e9fac88b23291b407f76549e250fd51c295e3",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
+      "hash": "f72d756fbd2c95c883e057806b2116ed44bcafc3",
       "changed": true,
-      "lastChangedAt": "2026-09-19T21:28:47.868Z"
+      "lastChangedAt": "2026-09-20T21:36:36.761Z"
     },
     {
       "id": "autogeo",
       "name": "AutoGEO 研究团队 · 自动优化生成式搜索中的内容可见性",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "49456df236774ea24087c44f45e9e52005b8e6a4",
       "changed": false,
       "lastChangedAt": null
@@ -384,7 +384,7 @@
       "id": "ms-agents",
       "name": "微软 · 智能体开发入门：从工具到协作",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "25b7985f3b2dc37a84f4a7387ccd3c9f0e5b1595",
       "changed": false,
       "lastChangedAt": null
@@ -393,7 +393,7 @@
       "id": "smol-course",
       "name": "Hugging Face · 小模型对齐与微调实践",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "f445ae5d9dd83f355ce6a2b1c6c71b588c8e1541",
       "changed": false,
       "lastChangedAt": "2026-09-17T22:13:40.915Z"
@@ -402,7 +402,7 @@
       "id": "geo-research",
       "name": "GEO 研究团队 · 生成式搜索优化：论文与实验代码",
       "ok": true,
-      "checkedAt": "2026-09-19T21:28:47.868Z",
+      "checkedAt": "2026-09-20T21:36:36.761Z",
       "hash": "c9e985f2bc4b539a01e8e9d226ff2a3d8d29a888",
       "changed": false,
       "lastChangedAt": null
@@ -419,5 +419,5 @@
       "discoveredAt": "2026-09-13T11:52:36.180Z"
     }
   ],
-  "collectedAt": "2026-09-19T21:28:47.868Z"
+  "collectedAt": "2026-09-20T21:36:36.761Z"
 }
